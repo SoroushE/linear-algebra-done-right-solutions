@@ -24,7 +24,7 @@ _Exercise 2_
 Define $T \in \mathcal{L}(\mathbb{R}^3)$ by
 
 $$
-T(x, y, z) = (0, -z, x).
+T(x, y, z) = (0, -z, y).
 $$
 
 That is, $T$ squashes vectors onto the $yz$ plane and rotates them counterclockwise by $\pi/2$ radians.
